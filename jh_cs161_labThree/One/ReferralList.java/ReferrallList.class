@@ -1,0 +1,7 @@
+class ReferralList{
+    private String ProviderName;
+    private String Location;
+    private int Phone;
+    private String ServiceProvided;
+    
+}

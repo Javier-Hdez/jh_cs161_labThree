@@ -1,0 +1,5 @@
+class SurveyQuestions{
+    private int QuestionNumber;
+    private String Question;
+    
+}

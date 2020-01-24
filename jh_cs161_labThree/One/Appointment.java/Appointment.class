@@ -1,0 +1,4 @@
+class Appointment {
+    private int Date;
+    private int Time;
+}

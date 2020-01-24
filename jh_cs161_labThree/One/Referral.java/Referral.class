@@ -1,0 +1,22 @@
+class Referral{
+
+  private String providerName;
+  private int Date;
+  private int Time;
+  
+  
+  
+  
+    public Date getDate(){
+       return Date;
+   }
+   public Time getTime(){
+       return Time;
+   }
+
+
+
+
+}
+    
+}

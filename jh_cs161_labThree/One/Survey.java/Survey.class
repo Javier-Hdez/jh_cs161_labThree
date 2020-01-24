@@ -1,0 +1,9 @@
+class Survey{
+    
+    private String SurveyNumber;
+    private String QuestionSet;
+    private String AnswerSet;
+    private SurveyQuestions[] questionSet;
+
+    
+}
